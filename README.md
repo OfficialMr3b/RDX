@@ -39,12 +39,12 @@
 
 # Installation
 
-- `1` . Clone the repo by running
+- `1`. Clone the repo by running
 ```
 git clone https://github.com/OfficialMr3b/rdx
 ```
-- `2` . add this resource to your server `:mods/deathmatch/resources/`
-- `3` . type this command in your server `refresh` and `start rdx`
+- `2`. add this resource to your server `:mods/deathmatch/resources/`
+- `3`. type this command in your server `refresh` and `start rdx`
 
 # How to Use
 
