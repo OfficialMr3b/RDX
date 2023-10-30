@@ -8,10 +8,10 @@
 
 # Requirement
 
-- `1` . You need to change the resolution from `rdx/config/data.lua` to your resolution.<br>
-- `2` . Do not change any thing in `rdx/server/update.lua` or `rdx/update.cfg`.<br>
-- `3` . Do not remove `rdx/update.cfg`, so you can update.
-- `4` . To update the resource you need to type `/update-rdx`.<br>
+- `1`. You need to change the resolution from `rdx/config/data.lua` to your resolution.<br>
+- `2`. Do not change any thing in `rdx/server/update.lua` or `rdx/update.cfg`.<br>
+- `3`. Do not remove `rdx/update.cfg`, so you can update.
+- `4`. To update the resource you need to type `/update-rdx`.<br>
 
 # Functions
 * [dxText](https://wiki.multitheftauto.com/wiki/dxDrawText)
