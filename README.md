@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/927728569382236180/1060666841644683434/Group_1.png"></p>
 
-# MTA:SA RDX
+# MTA:SA RDX (Not Finished)
 
 - This Script Display DX/GUI for All screen formats, Where the way to use it is easy and you do not need practice to use it
 - For more details, go to [MTA:SA Wiki](https://wiki.multitheftauto.com/wiki/Resource:RDX)
@@ -46,9 +46,9 @@ git clone https://github.com/OfficialMr3b/rdx
 - `2` . add this resource to your server `:mods/deathmatch/resources/`
 - `3` . type this command in your server `refresh` and `start rdx`
 
-# How to uses
+# How to Use
 
-- import this function for use the rdx
+- Import this code to load rdx codes
 ```lua
 loadstring(exports.rdx:import())()
 ```
@@ -56,11 +56,13 @@ loadstring(exports.rdx:import())()
 ```lua
 loadstring(exports.rdx:import())()
 
-addEventHandler("onClientRender", root, function()
-    dxRectangle(468, 279, 430, 211, tocolor(255, 255, 255, 255), false)
-    dxText("MTA RDX", 468, 279, 898, 307, tocolor(0, 0, 0, 254), 1.00, "default", "center", "center", false, false, false, false, false)
-    dxImage(622, 338, 123, 92, ":guieditor/images/examples/mtalogo.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
-end)
+addEventHandler("onClientRender", root,
+    function()
+        dxRectangle(468, 279, 430, 211, tocolor(255, 255, 255, 255), false)
+        dxText("MTA RDX", 468, 279, 898, 307, tocolor(0, 0, 0, 254), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxImage(622, 338, 123, 92, ":guieditor/images/examples/mtalogo.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+    end
+)
 ```
 
 # Contributors
