@@ -64,5 +64,5 @@ end)
 ```
 
 # Contributors
-| <img src="https://i.imgur.com/9eOHGEq.png" style="border-radius: 50%;"><br><sub>Mr3b#8603<br></sub> | <img src="https://i.imgur.com/a3flkPs.png" style="border-radius: 50%;"><br><sub>vaxeus.#2335<br></sub> |
+| <img src="https://i.imgur.com/9eOHGEq.png" style="border-radius: 50%;"><br><sub>imr3b<br></sub> | <img src="https://i.imgur.com/a3flkPs.png" style="border-radius: 50%;"><br><sub>2yx.<br></sub> |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
